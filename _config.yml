@@ -23,7 +23,7 @@ github_username:  kinkerl
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
